@@ -1,3 +1,3 @@
 # Mono-1
 
-Mono first day. C# Console Application.
+#1 (3.10.2022.) C# Console Application.
